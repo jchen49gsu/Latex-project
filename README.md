@@ -11,5 +11,5 @@ https://www.overleaf.com/learn/latex/Using_colours_in_LaTeX
 #### remove color of hyperlink in pdf
 https://tex.stackexchange.com/questions/823/remove-ugly-borders-around-clickable-cross-references-and-hyperlinks
 #### great websites to find sample resume and create your own resume
-https://www.overleaf.com
-https://www.overleaf.com/gallery/tagged/cv
+##### https://www.overleaf.com
+##### https://www.overleaf.com/gallery/tagged/cv
